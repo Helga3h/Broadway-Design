@@ -8,10 +8,16 @@ ul{
   list-style-type: none;
 }
 
+a{
+  color: white;
+}
+
 h1{
-color:white;
+color: white;
 }
 
 nav{
-  img src="./resources/images"
+  background-image: url("../images/building.png");
+  color: white;
+  text-align: center;
 }
