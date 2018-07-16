@@ -21,3 +21,16 @@ nav{
   color: white;
   text-align: center;
 }
+.process{
+  color: black;
+  background-color; white;
+  text-align: center;
+}
+
+h2{
+  font-size: 32px;
+  font-weight: bold;
+}
+.process p{
+  font-size: 14px;
+}
