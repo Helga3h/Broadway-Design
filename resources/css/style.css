@@ -1,8 +1,18 @@
+html{
+  display: block;
+}
+
+head{
+  display: none;
+}
+
 body{
-  font-family: Helvetica;
+  font-family: Helvetica, sans-serif;
+  display: block;
+  margin: 8px;
   }
 
-ul{
+.mainnav{
   font-size: 18px;
   color: white;
   list-style-type: none;
@@ -60,8 +70,7 @@ h3{
   color: white;
   background-color: dimgray;
 }
-
-.horizontal{
+.footernav{
   display: inline;
   list-style-type: none;
 }
